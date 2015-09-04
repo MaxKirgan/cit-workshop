@@ -1,0 +1,3 @@
+Panda
+=================
+The panda is a powerful spirit animal inspiring tranquil strength and determination. Under its soft and fuzzy appearances, this animal totem brings forth the importance of strong personal boundaries to feel safe and grounded in life. If you have the panda as spirit animal or totem, you may be inclined to be emotional and feel like you need strong material and physical comfort to feel at ease in your life. Symbolic of the ability to find a balanced and nurturing path through life, it will encourage those who have it as totem or power animal to integrate different aspects of their personality in an harmonious whole.
