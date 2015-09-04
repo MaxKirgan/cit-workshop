@@ -11,6 +11,7 @@ Follow either the Markdown or PHP track.
 ### Markdown Track
 ```
 $ git clone [your-cit-workshop-fork]
+$ cd [your-cit-workshop-fork]
 $ git checkout -b [username]/[your-spirit-animal]
 $ touch [your-spirit-animal].md 
 ```
@@ -27,6 +28,7 @@ Create Pull Request on GitHub
 ### PHP Track
 ```
 $ git clone [your-cit-workshop-fork]
+$ cd [your-cit-workshop-fork]
 $ git checkout -b [username]/[your-spirit-animal]
 ```
 
